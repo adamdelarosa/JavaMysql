@@ -10,7 +10,7 @@ public class FirstExample {
     static final String USER = "username";
     static final String PASS = "password";
     static final String DB_URL = "jdbc:mysql://localhost/EMP";
-//
+
 
     public static void mysqlEMP() {
         Connection conn = null;
