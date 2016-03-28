@@ -2,6 +2,7 @@ package Emp;
 
 import java.sql.*;
 
+
 public class FirstExample {
     // JDBC driver name.
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
